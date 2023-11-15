@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header nav ul{
+    display: flex;
+    justify-content: center;
+    gap: 1.25rem;
+    list-style: none;
+}
+
+header nav ul li a{
+    text-decoration: none;
+    color: lightgrey;
+    font-size: 1.5625rem;
+}
